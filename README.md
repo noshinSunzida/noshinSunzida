@@ -1,11 +1,18 @@
-# Hi 👋, I'm <YOUR NAME>  
+# Hi 👋, I'm Noshin Sunzida  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
 ## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+
+I'm currently a Computer Science student who enjoys learning new technologies and turning ideas into projects.
+
+💻 Learning Web Development, Software Engineering, and AI
+🌱 Exploring **React**, **JavaScript**, **Node.js** and more
+🚀 Building projects to improve my problem-solving and development skills
+📚 Always curious to learn something new and improve along the way
+
+I’m currently focused on growing my skills, building meaningful projects, and preparing for my journey as a Software Engineer.
 
 ---
 
