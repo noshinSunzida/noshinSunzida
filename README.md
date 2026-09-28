@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./gitBanner.png" alt="" width="100%">
+</p>
+
 # Hi 👋, I'm Noshin Sunzida  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
