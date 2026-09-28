@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gitBanner.png" alt="" width="100%">
+  <img src="./gitBanner1.png" alt="" width="100%">
 </p>
 
 # Hi 👋, I'm Noshin Sunzida  
